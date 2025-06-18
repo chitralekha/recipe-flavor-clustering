@@ -1,4 +1,3 @@
-# recipe-flavor-clustering
 #  Recipe Flavor Clustering
 
 This project applies **unsupervised learning** techniques to cluster recipes based on their **nutritional profiles** and explores their **ingredient patterns**, **user ratings**, and **similarity-based recommendations**.

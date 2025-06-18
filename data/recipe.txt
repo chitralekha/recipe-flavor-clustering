@@ -1,0 +1,5 @@
+This project uses the Food.com Recipes and Reviews dataset from Kaggle:
+
+- [🍴 Food.com Recipes and Interactions Dataset on Kaggle](https://www.kaggle.com/datasets/kaggle/food-com-recipes-and-user-interactions)
+
+Due to GitHub's file size upload limits, the raw data files (`recipes.csv`, `reviews.csv`) are not included here.
